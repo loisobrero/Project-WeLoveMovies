@@ -7,6 +7,10 @@ The project WeLoveMovies is a backend API built with RESTful architecture to han
 [server](https://deploy-welovemovies-6ox2.onrender.com/movies) deployed to Render (use the `/movies`, `/theaters`, or `/reviews` routes listed below)
 [Client App](https://we-love-movies-app-front-end.vercel.app/) designed by [Thinkful](https://github.com/Thinkful-Ed/starter-movie-front-end)
 
+## Technology
+
+- JavaScript, Node.js, Express, PostgreSQL, Knex  
+
 ## Installation
 
 ### Server
